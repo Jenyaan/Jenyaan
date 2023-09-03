@@ -10,7 +10,7 @@
 
 
 ### Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40"/>
 
 
 ---
@@ -44,14 +44,8 @@ ___
 
 <center>
     <div id="badges">
-  <a href="https://vk.com/aniime_guy" >
-    <img src="https://img.icons8.com/?size=512&id=13977&format=png"width="40" height="40"/>
-  </a>
-  <a href="https://t.me/Ilham06">
+  <a href="https://t.me/jenya64">
     <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC9m1N5x0OXWihGpR50Yk35g">
-    <img src="https://img.icons8.com/?size=512&id=13983&format=png"width="40" height="40" />
   </a>
 </div>
 </center>

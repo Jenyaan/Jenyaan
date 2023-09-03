@@ -1,4 +1,4 @@
-# **Good Day!** :shipit:
+# **Good Day!** 
 
 
 

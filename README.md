@@ -15,11 +15,8 @@
 
 ---
 ```python
-while !dead:
-    eat()
-    code()
-    #sleep()
-
+def personal_life():
+    ...
 ```
 ---
 

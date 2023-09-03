@@ -50,6 +50,4 @@ ___
 </div>
 </center>
 
-----
 
-<img  src="https://github.com/Jenyaan/info_os/blob/main/qr-code.png?raw=true" width="180" />

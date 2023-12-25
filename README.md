@@ -22,8 +22,7 @@ def personal_life():
 
 
 ### :fire: My Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jenyaan=tokyonight)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jenyaan&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jenyaan&show_icons=true&theme=tokyonight)
 

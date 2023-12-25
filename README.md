@@ -9,8 +9,7 @@
 
 
 ### Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="40" height="40" title="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" title="Python"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="40" height="40" title="C"/>
 
 
 ---
@@ -23,17 +22,12 @@ def personal_life():
 
 
 ### :fire: My Stats :
-
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=titanilham&theme=tokyonight)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=titanilham&show_icons=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jenyaan&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenyaan&layout=compact&theme=tokyonight&hide=scss,css,html)
-
-<p><img src="https://raw.githubusercontent.com/kori-lab/kori-lab/172ef3d12b7e10f9a19b1907cccf5f10f3c0bbd9/github-contribution-grid-snake.svg"/></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanilham&layout=compact&theme=tokyonight&hide=scss,css,html)
 
 
 

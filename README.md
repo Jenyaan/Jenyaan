@@ -22,12 +22,12 @@ def personal_life():
 
 
 ### :fire: My Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=titanilham&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jenyaan=tokyonight)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=titanilham&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jenyaan&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanilham&layout=compact&theme=tokyonight&hide=scss,css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenyaan&layout=compact&theme=tokyonight&hide=scss,css,html)
 
 
 

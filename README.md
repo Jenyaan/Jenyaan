@@ -8,8 +8,10 @@
 ---
 
 
-### Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" title="Python"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40" title="C++"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="40" height="40" title="C#"> <img src="https://freesvg.org/img/1486640958.png" width="40" height="40" title="JS">
+### Skill:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,ts,nextjs,git,docker,aws" />
+  </a>
 
 
 
